@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Advance java projects**
 
-- 🌱 I’m currently learning **Advance java , react ,python**
-
-- 🤝 I’m looking for help with **java**
+- 🌱 I’m currently learning **flutter ,mongodb**
 
 - 📫 How to reach me **purbashis31@gmail.com**
 
