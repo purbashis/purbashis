@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Purbashis</h1>
-<h3 align="center">A passionate data analyst from India.</h3>
+<h3 align="center">A passionate Associate Software Engineer from India.</h3>
 <img align="right" alt="coder" width="500" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purbashis&label=Profile%20views&color=0e75b6&style=flat" alt="purbashis" /> </p>
 
 <p align="left"> <a href="https://twitter.com/purbashis1" target="blank"><img src="https://img.shields.io/twitter/follow/purbashis1?logo=twitter&style=for-the-badge" alt="purbashis1" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analytics projects**
+- 🔭 I’m currently working on **SpringBoot projects**
 
-- 🌱 I’m currently learning **Python,SQL,PowerBI**
+- 🌱 I’m currently learning **Java,Springboot,MongoDB**
 
 - 📫 How to reach me **purbashis31@gmail.com**
 
