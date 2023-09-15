@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/purbashis1" target="blank"><img src="https://img.shields.io/twitter/follow/purbashis1?logo=twitter&style=for-the-badge" alt="purbashis1" /></a> </p>
 
-- 🔭 I’m currently working on **SpringBoot projects**
+- 🔭 I’m currently working on **Flutter projects**
 
-- 🌱 I’m currently learning **Java,Springboot,MongoDB**
+- 🌱 I’m currently learning **dart,flutter,Java,Springboot,MongoDB**
 
 - 📫 How to reach me **purbashis31@gmail.com**
 
