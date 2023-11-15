@@ -4,44 +4,30 @@
 <p align="center">
   <img alt="coder" width="500" src="https://c.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 </p>
+# 💫 About Me:
+🔭I’m currently working on Flutter projects<br>🌱 I’m currently learning dart,flutter,Java,Springboot,MongoDB<br>📫 How to reach me purbashis31@gmail.com
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=purbashis&label=Profile%20views&color=0e75b6&style=flat" alt="purbashis" /> 
-</p>
 
-<p align="left"> 
-  <a href="https://twitter.com/purbashis1" target="blank">
-    <img src="https://img.shields.io/twitter/follow/purbashis1?logo=twitter&style=for-the-badge" alt="purbashis1" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/d4ntz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ d4ntz31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Purbashis Behera) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ @Purbashis1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@D4ntZ) 
 
-- 🔭 I’m currently working on **Flutter projects**
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=purbashis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=purbashis&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=purbashis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🌱 I’m currently learning **dart, flutter, Java, Springboot, MongoDB**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=purbashis&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-- 📫 How to reach me: **purbashis31@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/purbashis1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="purbashis1" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/d4ntz31" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d4ntz31" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/d4ntz" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="d4ntz" height="30" width="40" />
-  </a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=purbashis&show_icons=true&locale=en&layout=compact" alt="purbashis" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&locale=en" alt="purbashis" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purbashis&" alt="purbashis" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
