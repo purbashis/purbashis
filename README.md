@@ -39,13 +39,13 @@
 ![](https://github-profile-trophy.vercel.app/?username=purbashis&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<p align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-</p>
+
 ### 😂 Random Dev Meme
-<p align="center">
+
 ![Random Dev Meme](https://randommeme-five.vercel.app/)
-</p>
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12)](https://visitcount.itsvg.in)
