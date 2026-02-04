@@ -43,10 +43,8 @@
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
----
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=purbashis&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purbashis&theme=tokyonight&hide_border=false&layout=compact)
 
 ---
@@ -61,6 +59,6 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12)
+![Profile Views](https://komarev.com/ghpvc/?username=purbashis&color=blueviolet&style=flat-square&label=Profile+Views)
 
 [![](https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12)](https://visitcount.itsvg.in)
