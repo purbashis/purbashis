@@ -44,22 +44,14 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+# hitscounter.dev (recommended - simple, recent)
+[![](https://hitscounter.dev/api/purbashis)](https://hitscounter.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=purbashis&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# VisitorBadgeReloaded (most stars, customizable)
+[![](https://visitor-badge.la.coop/badge?page_url=purbashis)](https://visitor-badge.la.coop)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=purbashis&theme=tokyonight&hide_border=false&layout=compact)
+# github-profile-views-counter (profile-focused)
+[![](https://komarev.com/ghpvc/?username=purbashis&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=purbashis&theme=dracula&no-frame=true)
-
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?theme=tokyonight)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12)](https://visitcount.itsvg.in)
