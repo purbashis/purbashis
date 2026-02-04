@@ -42,35 +42,7 @@
 ![AWS](https://img.shields.io/badge/aws-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purbashis&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=purbashis&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)
-
-</div>
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=purbashis&theme=tokyonight&hide_border=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=purbashis&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
