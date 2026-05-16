@@ -1,78 +1,86 @@
-# Purbashis Behera
-
-**Software Engineer – Backend Systems & Machine Learning**
-
----
-
-## Professional Summary
-
-I am a software engineer with four years of professional experience designing and implementing scalable systems. My expertise spans backend architecture, machine learning engineering, and cloud infrastructure. I approach complex technical problems with emphasis on system reliability, performance optimization, and writing maintainable code that scales.
-
-**Email:** purbashis31@gmail.com  
-**Based in:** India  
-**GitHub:** [purbashis](https://github.com/purbashis)
-
----
-
-## Core Expertise
-
-**Backend Systems Architecture**
-
-I design and implement production-scale backend services using modern frameworks and databases. My work includes architecting RESTful and asynchronous APIs, optimizing database performance through indexing and query analysis, managing distributed systems, and ensuring consistent system reliability. I write code with emphasis on clarity, testability, and long-term maintainability. My experience includes managing PostgreSQL and MongoDB systems handling significant transaction volumes.
-
-**Machine Learning Engineering**
-
-I develop complete machine learning systems from problem formulation through production deployment. This includes data acquisition and preprocessing, feature engineering, model development and rigorous validation, hyperparameter optimization, and building scalable inference pipelines. I emphasize reproducibility of results, comprehensive testing of model behavior under various conditions, and responsible deployment practices that monitor model performance in production.
-
-**Cloud Infrastructure & DevOps**
-
-I architect and deploy applications on cloud platforms prioritizing reliability, performance, and cost efficiency. This includes designing infrastructure as code, containerizing applications with Docker, implementing continuous integration and deployment systems, and building monitoring and alerting infrastructure. I approach infrastructure decisions by considering trade-offs between simplicity, scalability, and operational overhead.
-
----
-
-## Technical Proficiencies
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | Python, JavaScript |
-| **Backend Frameworks** | FastAPI, Node.js |
-| **Databases** | PostgreSQL, MongoDB |
-| **Machine Learning** | TensorFlow, scikit-learn, NumPy, Pandas |
-| **Cloud Platforms** | Amazon Web Services |
-| **Infrastructure** | Docker, Git, Linux |
-
----
-
-## Work & Contributions
-
-My approach to software development emphasizes clean architecture, rigorous testing, and clear communication. You can review my work on GitHub to understand my problem-solving approach and coding standards. I contribute to both production systems and open-source projects with focus on code quality and maintainability.
-
----
-
-## Approach to Engineering
-
-I believe effective engineering requires careful thinking about system design, clear understanding of trade-offs, and commitment to quality at every level. In backend development, I prioritize architectural clarity and ensuring systems remain performant as they scale. In machine learning work, I emphasize validation rigor and responsible practices that ensure models perform reliably in production. I am committed to continuous professional development, thoughtful code review practices, and building systems that create measurable business value.
-
----
-
-## Connect
-
-[LinkedIn](https://linkedin.com/in/purbashis-behera-079a07190) | [Twitter](https://twitter.com/Purbashis1) | [YouTube](https://youtube.com/@D4ntZ)
-
----
-
-## GitHub Statistics
+<!-- ========================================= -->
+<!--              HEADER SECTION              -->
+<!-- ========================================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Statistics" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Purbashis+Behera;Backend+Engineer+%7C+AI%2FML+Engineer;Building+Scalable+Backend+%26+AI+Systems;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purbashis&theme=github-dark&hide_border=true&bg_color=0d1117" alt="GitHub Contribution Activity" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="85%" />
 </p>
+
+<h3 align="center">
+Backend Engineer & AI/ML Enthusiast from India 🇮🇳
+</h3>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purbashis&color=1F6FEB&style=flat-square" alt="Profile Views" />
-</div>
+<!-- ========================================= -->
+<!--              ABOUT ME                    -->
+<!-- ========================================= -->
+
+# 💫 About Me
+
+```python
+class PurbashisBehera:
+
+    def __init__(self):
+        self.role = "Associate Software Engineer"
+        self.experience = "4+ Years"
+        self.specialization = [
+            "Backend Development",
+            "Machine Learning",
+            "AI Systems",
+            "FastAPI",
+            "Data Science"
+        ]
+
+    def currently_learning(self):
+        return [
+            "System Design",
+            "Distributed Systems",
+            "ML Deployment",
+            "Generative AI"
+        ]
+
+    def interests(self):
+        return [
+            "Scalable APIs",
+            "AI Infrastructure",
+            "Cloud Engineering",
+            "Open Source"
+        ] 
+  ```
+🔹 Transitioning from Application Development → Backend & AI/ML
+🔹 Building scalable backend APIs and intelligent systems
+🔹 Interested in real-world AI engineering and deployment
+🔹 Exploring distributed systems and cloud-native architectures
+
+📫 Reach me at: purbashis31@gmail.com
+
+<!-- ========================================= --> <!-- SOCIAL LINKS --> <!-- ========================================= -->
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/purbashis-behera-079a07190"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/Purbashis1"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://youtube.com/@D4ntZ"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p>
+<!-- ========================================= --> <!-- TECH STACK --> <!-- ========================================= -->
+⚡ Tech Stack
+🧠 AI / ML
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </p> <p align="center"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> </p>
+⚙️ Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,spring,postgres,mongodb" /> </p>
+☁️ Cloud & DevOps
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,postman" /> </p>
+<!-- ========================================= --> <!-- GITHUB STATS --> <!-- ========================================= -->
+📊 GitHub Analytics
+<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purbashis&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=purbashis&theme=tokyo-night&hide_border=true"/> </p>
+<!-- ========================================= --> <!-- DEV QUOTE --> <!-- ========================================= -->
+✍️ Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
+<!-- ========================================= --> <!-- CONTRIBUTION SNAKE --> <!-- ========================================= -->
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/purbashis/purbashis/blob/output/github-contribution-grid-snake.svg" /> </p>
+<!-- ========================================= --> <!-- PROFILE VIEWS --> <!-- ========================================= --> <div align="center">
+
+</div> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"> </p> ```
