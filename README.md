@@ -78,34 +78,13 @@ class PurbashisBehera:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purbashis&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=purbashis&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
 [![Purbashis's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=purbashis&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/purbashis/purbashis/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## ✍️ Dev Quote
 
