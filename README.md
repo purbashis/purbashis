@@ -99,9 +99,7 @@ class PurbashisBehera:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=purbashis&color=58A6FF&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=purbashis&icon=8&color=12" alt="Visit Count"/>
-  </a>
+  
 </p>
 
 <p align="center">
