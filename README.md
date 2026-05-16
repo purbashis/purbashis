@@ -47,11 +47,13 @@ class PurbashisBehera:
         return ["System Design", "Distributed Systems", "ML Deployment", "Generative AI"]
 ```
 
-> 🔹 4+ years of engineering experience with a growing focus on **Python, ML, and Backend APIs**
-> 🔹 Hands-on with real-world AI/ML projects — preprocessing, training, evaluation & deployment
-> 🔹 Passionate about building systems that are both **intelligent** and **scalable**
+> 🔹 4+ years of engineering experience with a growing focus on **Python, ML, and Backend APIs**  
+>  
+> 🔹 Hands-on with real-world AI/ML projects — preprocessing, training, evaluation & deployment  
+>  
+> 🔹 Passionate about building systems that are both **intelligent** and **scalable**  
+>  
 > 🔹 Open to collaborations on backend systems, AI/ML tools, and open-source projects
-
 ---
 
 ## 🛠️ Tech Stack
