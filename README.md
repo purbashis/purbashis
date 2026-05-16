@@ -1,18 +1,29 @@
-<!-- Animated Header -->
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+<!-- Greeting -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="85%" alt="Welcome Animation" />
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+👋;Welcome+to+My+Profile+💻;Backend+Engineer+&+AI/ML+Specialist;Building+Scalable+Solutions+🚀;Feel+Free+to+Explore+✌;Reach+Out+for+Collaboration+🤝" alt="Dynamic Greeting"></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
 ---
 
-# Purbashis Behera
+<h3 align="center">Backend Engineer & Machine Learning Specialist from India 🇮🇳</h3>
 
-**Backend Engineer & Machine Learning Specialist**
-
+<!-- Typing Animation for Skills -->
 <p align="center">
-  <a href="#">
-    <img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=18&center=true&lines=Backend+Systems+Architect;AI/ML+Engineer;Data+Science+Specialist;Scalable+Solutions+Builder;Python+%7C+FastAPI+%7C+TensorFlow" alt="Dynamic Skills Display" />
+  <a href="https://github.com/purbashis">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=FastAPI%20Development;Machine%20Learning%20Engineering;Data%20Science%20&%20AI;Cloud%20Architecture%20with%20AWS&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45" alt="Professional Focus Areas">
   </a>
+</p>
+
+<!-- Animated Gif -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
 </p>
 
 ---
@@ -21,8 +32,9 @@
 
 I am a software engineer with four years of progressive experience in application development and systems architecture. Currently specializing in backend systems engineering and machine learning solutions, I focus on designing scalable APIs, developing production-grade machine learning models, and engineering robust data processing pipelines. My approach emphasizes clean architecture, performance optimization, and delivering measurable business value through thoughtful engineering decisions.
 
-**Get in Touch:** purbashis31@gmail.com  
-**Professional Links:** [LinkedIn](https://linkedin.com/in/purbashis-behera-079a07190) | [GitHub](https://github.com/purbashis) | [Twitter](https://twitter.com/Purbashis1) | [YouTube](https://youtube.com/@D4ntZ)
+- 📝 Exploring latest developments in Backend Architecture and Machine Learning
+- 💻 Check out my work: [GitHub](https://github.com/purbashis)
+- 📧 Reach me at: **purbashis31@gmail.com**
 
 ---
 
@@ -32,7 +44,6 @@ I am a software engineer with four years of progressive experience in applicatio
   <a href="https://linkedin.com/in/purbashis-behera-079a07190" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" /></a>
   <a href="https://twitter.com/Purbashis1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" /></a>
   <a href="https://youtube.com/@D4ntZ" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="35" /></a>
-  <a href="https://github.com/purbashis" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="35" /></a>
 </p>
 
 ---
@@ -45,50 +56,51 @@ I am a software engineer with four years of progressive experience in applicatio
 
 <h1 align="left">🛠 Languages and Tools</h1>
 
-<!-- Development Tools Animation -->
 <p align='center'>
-  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" alt="Development Tools" />
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" />
 </p>
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-# Core Competencies
+# My Skills Set
 
-<table>
-<tr>
+<table><tr>
 
 <!-- Backend -->
 <td valign="top" width="33%">
@@ -134,52 +146,42 @@ I am a software engineer with four years of progressive experience in applicatio
 
 </td>
 
-</tr>
-</table>
+</tr></table>
 
 ---
 
-## Professional Areas of Focus
-
-**Backend Systems Architecture** — I design and implement scalable backend services using FastAPI and Node.js, with emphasis on building reliable RESTful APIs and managing complex distributed systems. My experience spans implementing secure endpoints, optimizing database queries, and ensuring production system reliability at scale.
-
-**Machine Learning Engineering** — I develop end-to-end machine learning pipelines spanning data acquisition, preprocessing, feature engineering, model development, rigorous validation, and production deployment. My expertise includes TensorFlow for deep learning applications and scikit-learn for classical machine learning approaches, with focus on model reproducibility and responsible deployment practices.
-
-**Data Pipeline Development** — I architect robust data processing systems that handle real-world data challenges including preprocessing, transformation, and quality assurance. My approach emphasizes scalability and reliability in handling large-scale data operations.
-
-**Cloud Infrastructure & Containerization** — I leverage AWS services for deploying and managing applications at scale, including compute instances, storage solutions, and managed databases. I containerize applications using Docker to ensure consistency across development and production environments and implement continuous integration workflows.
-
----
-
-## 📊 GitHub Contributions
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purbashis&theme=github_dark" alt="Profile Summary" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=purbashis&show_icons=true&theme=radical" alt="purbashis GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purbashis&theme=github-dark&hide_border=true" alt="Contribution Activity" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purbashis&theme=github_dark"/>
 </p>
 
 ---
 
-## Engineering Philosophy
+## Random Developer Quote
 
-I approach software engineering with commitment to technical rigor, clean code principles, and sustained professional development. In backend development, I prioritize system reliability, performance optimization, and clear architectural decisions that support long-term maintainability. In machine learning work, I emphasize reproducibility, comprehensive model validation, and responsible deployment practices. I believe technical excellence requires continuous learning, thoughtful code review, and collaborative problem-solving across teams.
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Developer Quote" />
-</p>
+## Snake Contribution Animation
+
+![Snake Animation](https://github.com/purbashis/purbashis/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=purbashis&color=3498db&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=purbashis&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="Decorative Line" width="100%">
-</p>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
